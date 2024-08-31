@@ -1,0 +1,1 @@
+../../Core/GPUImageHardLightBlendFilter.h

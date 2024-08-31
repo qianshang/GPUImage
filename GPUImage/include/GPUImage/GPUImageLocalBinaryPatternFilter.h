@@ -1,0 +1,1 @@
+../../Core/GPUImageLocalBinaryPatternFilter.h

@@ -1,0 +1,1 @@
+../../Core/GPUImageHistogramGenerator.h

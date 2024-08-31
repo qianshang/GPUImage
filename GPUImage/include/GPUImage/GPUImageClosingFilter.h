@@ -1,0 +1,1 @@
+../../Core/GPUImageClosingFilter.h

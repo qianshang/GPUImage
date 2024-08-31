@@ -1,0 +1,1 @@
+../../Core/GPUImageLinearBurnBlendFilter.h

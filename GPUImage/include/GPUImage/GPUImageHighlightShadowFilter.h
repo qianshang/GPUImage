@@ -1,0 +1,1 @@
+../../Core/GPUImageHighlightShadowFilter.h

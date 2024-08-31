@@ -1,0 +1,1 @@
+../../Core/GPUImageAverageColor.h

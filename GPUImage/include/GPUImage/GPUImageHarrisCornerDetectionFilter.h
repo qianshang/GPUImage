@@ -1,0 +1,1 @@
+../../Core/GPUImageHarrisCornerDetectionFilter.h

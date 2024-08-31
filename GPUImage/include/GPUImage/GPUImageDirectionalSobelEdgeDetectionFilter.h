@@ -1,0 +1,1 @@
+../../Core/GPUImageDirectionalSobelEdgeDetectionFilter.h
